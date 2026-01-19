@@ -58,5 +58,6 @@ El análisis de datos reveló patrones de comportamiento cruciales para la estra
 ### 👤 Autor
 
 **Stephany Marilyn Toribio Alvarado**
-* *Data Analyst & Scientist*
+* *Data Scientist & Analyst*
+* Expertise: Business Intelligence | Machine Learning | Strategic Planning
 * [LinkedIn](https://www.linkedin.com/in/stephany-marilyn-toribio-alvarado-47080b303/) | [Portafolio](https://stephany-toribio.github.io/MWeb/)
